@@ -19,6 +19,7 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionDelay: 150,
 });
 
+
 const form = document.querySelector('.search-form');
 const container = document.querySelector('.gallery');
 const loader = document.querySelector('.loader');
